@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "jqueryaccordion-client-side-solution",
+    "id": "383928ec-482c-4430-af90-96e0e6d4f4cc",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/jqueryaccordion.sppkg"
+  }
+}
